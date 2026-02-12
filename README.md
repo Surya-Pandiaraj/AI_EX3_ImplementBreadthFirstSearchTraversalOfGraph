@@ -1,1 +1,5 @@
-# AI_EX3_ImplementBreadthFirstSearchTraversalOfGraph
+### NAME: SURYA P <br>
+### REG NO: 212224230280 <br> 
+### Date: 11/02/2026
+
+## EX. No. 3 : IMPLEMENT BREADTH FIRST SEARCH TRAVERSAL OF A GRAPH
